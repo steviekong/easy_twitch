@@ -6,3 +6,8 @@
 .preloader-wrapper{
   margin-top:30%;
 }
+@media screen and (max-width: 500px) { 
+  .brand-logo{
+    font-size:250% !important;
+  }
+}
